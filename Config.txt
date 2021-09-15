@@ -1,0 +1,20 @@
+{
+"ApplicationURL":"https://login.hchb.com/vpn/index.html",
+"AssetName":"Citrix Credentials",
+"FolderSelection":"Training",
+"CitrixSelection":"HCHB R2 - ELARA CARING TRAINING",
+"ConsoleSelection":"OASIS",
+"ConsoleSelectionAnchor":"Console",
+"FromDateFilter":"01/21/2021",
+"ToDateFilter":"CurrentDate",
+"PatientsFilter":"ALL",
+"StatusFilter":"LOCKED",
+"TypeFilter":"SELECT ALL",
+"FilePath":"D:/Users/ashwin.kaleeswaran/Documents/UiPath/HCHB Patient Record Process",
+"Filename":"PatientRecords.xlsx",
+"SheetName":"Sheet1",
+"QueueName":"PatientRecords",
+"ToMailID":"ashwin.kaleeswaran@e5.ai",
+"MailSubject":"Process Successfully Completed",
+"MailBody":"Test"
+}
